@@ -1,0 +1,44 @@
+{
+    "students": [
+        {
+            "name": "Aakash Gupta",
+            "rollNumber": "CS-10"
+        },
+        {
+            "name": "Pawan Kumar Maurya",
+            "rollNumber": "CS-59"
+        },
+        {
+            "name": "Harish Panchal",
+            "rollNumber": "CS-30"
+        },
+        {
+            "name": "Kumkum Shakya",
+            "rollNumber": "CS-44"
+        },
+        {
+            "name": "Krishan Kumar",
+            "rollNumber": "CS-41"
+        },
+        {
+            "name": "Divesh Yadav",
+            "rollNumber": "CS-28"
+        },
+        {
+            "name": "Abhishek Verma",
+            "rollNumber": "CS-05"
+        },
+        {
+            "name": "Ajeet Kumar",
+            "rollNumber": "CS-09"
+        },
+        {
+            "name": "Golu Patel",
+            "rollNumber": "CS-29"
+        },
+        {
+            "name":"Mohd Saud Naseem",
+            "rollNumber":"CS-51"
+        }
+    ]
+}
